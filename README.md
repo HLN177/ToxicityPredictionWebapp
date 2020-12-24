@@ -4,7 +4,7 @@
 > Back-end: Nodejs Expressjs<br/>
 > Database: MySQL<br/>
 > Machine Learning: K-NN, K-Means<br/>
-## Preview
+## Previews
 ![image](https://github.com/HLN177/ToxicityPredictionWebapp/blob/main/server/public/WechatIMG557.png)
 ![image](https://github.com/HLN177/ToxicityPredictionWebapp/blob/main/server/public/WechatIMG732.png)
 # Getting Started
