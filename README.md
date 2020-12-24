@@ -4,11 +4,6 @@
 > Back-end: Nodejs Expressjs<br/>
 > Database: MySQL<br/>
 > Machine Learning: K-NN, K-Means<br/>
-## Previews
-![image](https://github.com/HLN177/ToxicityPredictionWebapp/blob/main/server/public/WechatIMG557.png)
-![image](https://github.com/HLN177/ToxicityPredictionWebapp/blob/main/server/public/WechatIMG732.png)
-## F1-Score
-![image](https://github.com/HLN177/ToxicityPredictionWebapp/blob/main/server/public/WechatIMG529.jpeg)
 # Getting Started
 ## Prerequisites
 1. Node.js & npm
@@ -39,3 +34,8 @@
     cd server
     npm test
 ```
+## Previews
+![image](https://github.com/HLN177/ToxicityPredictionWebapp/blob/main/server/public/WechatIMG557.png)
+![image](https://github.com/HLN177/ToxicityPredictionWebapp/blob/main/server/public/WechatIMG732.png)
+## F1-Score
+![image](https://github.com/HLN177/ToxicityPredictionWebapp/blob/main/server/public/WechatIMG529.jpeg)
