@@ -4,6 +4,7 @@
 > Back-end: Nodejs Expressjs<br/>
 > Database: MySQL<br/>
 > Machine Learning: K-NN, K-Means
+![image](https://github.com/HLN177/ToxicityPredictionWebapp/blob/main/server/public/WechatIMG557.png)
 # Getting Started
 ## Prerequisites
 1. Node.js & npm
