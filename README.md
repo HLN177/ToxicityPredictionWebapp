@@ -8,7 +8,7 @@
 ![image](https://github.com/HLN177/ToxicityPredictionWebapp/blob/main/server/public/WechatIMG557.png)
 ![image](https://github.com/HLN177/ToxicityPredictionWebapp/blob/main/server/public/WechatIMG732.png)
 ## F1-Score
-![image](https://github.com/HLN177/ToxicityPredictionWebapp/blob/main/server/public/WechatIMG529.png)
+![image](https://github.com/HLN177/ToxicityPredictionWebapp/blob/main/server/public/WechatIMG529.jpeg)
 # Getting Started
 ## Prerequisites
 1. Node.js & npm
