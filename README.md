@@ -1,5 +1,5 @@
 # Web Appliction for Toxicity Prediction
-# Technology Stack
+## Technology Stack
 > Front-end: Vuejs Element-UI<br/>
 > Back-end: Nodejs Expressjs<br/>
 > Database: MySQL<br/>
